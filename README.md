@@ -14,3 +14,5 @@ which is inspiring for me to __keep going__. :smile:
 I edit code in Atom, type command line in terminal, learn how to use MARKDOWN to edit README.
 
 Finally, I know how to update file on Github through git config.
+
+Thanks my mentor @jerome1210
