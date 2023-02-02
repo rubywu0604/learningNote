@@ -20,20 +20,7 @@ ___
 
 ### 02Feb.2023- Learning Note
 **javaScript**
-- Callback
-```javaScript
-#example
-function shout(){
-  console.log("Help!");
-};
-function countToThree(callback){
-  for(var i = 0; i <= 3; i++){
-    console.log(i);
-  };
-  callback();
-};
-countToThree(shout);
-```
+- [Callback](exercism/callback.md) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
 
 **Git**
 - [MARKDOWN](https://youtu.be/HUBNt18RFbo)
@@ -41,4 +28,4 @@ countToThree(shout);
 - push / pull
 - fetch
 - merge
-- rebase
+- rebase / reset / amend
