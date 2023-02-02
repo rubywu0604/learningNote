@@ -7,7 +7,7 @@ Today is my first time to push the file successfully to Github.
 After several hours for researching.
 Created ssh-key, checked the environment, saw __OhMyZsh__ been updated with pic
 
-![OMZ](Image/OMZ.png)
+<img src="Image/OMZ.png" width="500" >
 
 which is inspiring for me to __keep going__. :smile:
 
