@@ -9,7 +9,7 @@ Created ssh-key, checked the environment, saw __OhMyZsh__ been updated with pic
 
 <img src="Image/OMZ.png" width="500" >
 
-which inspire me to __keep going__. :smile:
+which inspires me to __keep going__. :smile:
 
 I edit code in Atom, type command line in terminal, learn how to use MARKDOWN to edit README.
 
@@ -20,7 +20,7 @@ ___
 
 ### 02Feb.2023- Learning Note
 **javaScript**
-- [Callback](exercism/callback.md) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
+- [Callback](exercism/callback.js) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
 
 **Git**
 - [MARKDOWN](https://youtu.be/HUBNt18RFbo)
@@ -29,3 +29,11 @@ ___
 - fetch
 - merge
 - rebase / reset / amend
+
+### 03Feb.2023- Learning Note
+**javaScript**
+- [Callback](exercism/callback.js) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
+
+**Git**
+- [merge vs rebase](https://www.youtube.com/watch?v=7Mh259hfxJg)
+- alias
