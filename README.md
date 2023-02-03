@@ -37,3 +37,4 @@ ___
 **Git**
 - [merge vs rebase](https://www.youtube.com/watch?v=7Mh259hfxJg)
 - alias
+- [gitNote](git/gitNote.md)
