@@ -38,3 +38,10 @@ ___
 - [merge vs rebase](https://www.youtube.com/watch?v=7Mh259hfxJg)
 - alias
 - [gitNote](git/gitNote.md)
+
+### 04Feb.2023- Learning Note
+**javaScript**
+- Tpye Conversion (practice in [exercism](https://exercism.org/tracks/javascript/concepts/type-conversion))
+- Template Strings/Ternary Operator (practice in [exercism](https://exercism.org/tracks/javascript/exercises/custom-signs/solutions/rubywu0604))
+- Array Destructuring/Rest and Spread (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments/solutions/rubywu0604))
+- Array Analysis/Arrow Functions (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments/solutions/rubywu0604))
