@@ -45,3 +45,8 @@ ___
 - Template Strings/Ternary Operator (practice in [exercism](https://exercism.org/tracks/javascript/exercises/custom-signs/solutions/rubywu0604))
 - Array Destructuring/Rest and Spread (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments/solutions/rubywu0604))
 - Array Analysis/Arrow Functions (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments/solutions/rubywu0604))
+
+
+### 06Feb.2023- Learning Note
+**javaScript**
+- Array Transformations(practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-transformative-enchantments/solutions/rubywu0604))
