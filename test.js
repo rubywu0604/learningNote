@@ -1,10 +1,5 @@
+const array1 = [5, 12, 8, 130, 1, 1, 2];
 
-let player1 = "rich";
-let player2 = "ruby";
+const isLargeNumber = (element) => element === 1;
 
-let age = {};
-age.tine = 10;
-age[player1] = 1;
-age[player2] = 30;
-
-console.log(age.player1);
+console.log(array1.filter(isLargeNumber));

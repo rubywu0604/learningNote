@@ -66,3 +66,6 @@ ___
 **javaScript**
 - Errors and Inheritance (practice in [exercism](https://exercism.org/tracks/javascript/exercises/factory-sensors/solutions/rubywu0604))
 - [prototype chain](https://youtu.be/GhJTy5-X3kA)
+
+**LeetCode**
+- 136. Single Number
