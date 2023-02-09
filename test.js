@@ -1,13 +1,10 @@
 
-let deck = [1, 2, 3, 4];
+let player1 = "rich";
+let player2 = "ruby";
 
-function threeOfEachThree(deck) {
-  deck.reduce((accumulator, currentValue) => {
-    if (currentValue === 3){
-      accumulator.deck.push(currentValue);
-    };
-    return accumulator;
-  })
-}
+let age = {};
+age.tine = 10;
+age[player1] = 1;
+age[player2] = 30;
 
-console.log(threeOfEachThree(deck);
+console.log(age.player1);

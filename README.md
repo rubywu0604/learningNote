@@ -50,3 +50,19 @@ ___
 ### 06Feb.2023- Learning Note
 **javaScript**
 - Array Transformations(practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-transformative-enchantments/solutions/rubywu0604))
+
+### 07.08Feb.2023- Learning Note
+**javaScript**
+- [Prototypes and Classes](exercism/PrototypesAndClasses.js)(practice in [exercism](https://exercism.org/tracks/javascript/exercises/windowing-system/solutions/rubywu0604))
+
+**reading** *(JavaScript: The Definitive Guide, 7th Edition)*
+- Chapter 1.Introduction to JavaScript
+- Chapter 2.Lexical Structure
+
+**LeetCode**
+- 7.Reverse Integer
+
+### 09Feb.2023- Learning Note
+**javaScript**
+- Errors and Inheritance (practice in [exercism](https://exercism.org/tracks/javascript/exercises/factory-sensors/solutions/rubywu0604))
+- [prototype chain](https://youtu.be/GhJTy5-X3kA)
