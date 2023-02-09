@@ -109,3 +109,7 @@ export function changeWindow (programWindow) {
   programWindow.move(newPosition);
   return programWindow;
 }
+
+/*
+ * Below code is my memo of prototype chian.
+ */

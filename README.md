@@ -61,3 +61,8 @@ ___
 
 **LeetCode**
 - 7.Reverse Integer
+
+### 09Feb.2023- Learning Note
+**javaScript**
+- Errors and Inheritance (practice in [exercism](https://exercism.org/tracks/javascript/exercises/factory-sensors/solutions/rubywu0604))
+- [prototype chain](https://youtu.be/GhJTy5-X3kA)
