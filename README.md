@@ -69,3 +69,7 @@ ___
 
 **LeetCode**
 - 136. Single Number
+
+### 10Feb.2023- Learning Note
+- [Regular Chatbot](https://youtu.be/sa-TUpSx1JA)(practice in [exercism](https://exercism.org/tracks/javascript/exercises/regular-chatbot/solutions/rubywu0604))
+- Array Loops (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-looping-enchantments/solutions/rubywu060400))
