@@ -64,3 +64,9 @@ _feature_ insert into _main_
 @branch feature
 $ git rebase -i main or $ git rebase main
 ```
+
+##### reflog
+```
+$ git reflog
+$ git cherry-pick <harsh>
+```
