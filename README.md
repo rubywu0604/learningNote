@@ -23,6 +23,11 @@ ___
 
 ### Learning Note
 
+### :pushpin: 13Feb.2023
+**javaScript**
+
+- Sets (practice in [exercism](https://exercism.org/tracks/javascript/exercises/ozans-playlist/solutions/rubywu0604))
+
 ### :pushpin: 10Feb.2023
 **javaScript**
 - [Regular Chatbot](https://youtu.be/sa-TUpSx1JA)(practice in [exercism](https://exercism.org/tracks/javascript/exercises/regular-chatbot/solutions/rubywu0604))
@@ -39,6 +44,7 @@ ___
 ### :pushpin: 07.08Feb.2023
 **javaScript**
 - [Prototypes and Classes](exercism/PrototypesAndClasses.js)(practice in [exercism](https://exercism.org/tracks/javascript/exercises/windowing-system/solutions/rubywu0604))
+
 **reading** *(JavaScript: The Definitive Guide, 7th Edition)*
 - Chapter 1.Introduction to JavaScript
 - Chapter 2.Lexical Structure
