@@ -23,6 +23,17 @@ ___
 
 ### Learning Note
 
+### :pushpin: 15Feb.2023
+**Node**
+- [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
+
+### :pushpin: 14Feb.2023
+**LeetCode**
+- 14. Longest Common Prefix
+
+**HTML**
+- create web page
+
 ### :pushpin: 13Feb.2023
 **javaScript**
 
