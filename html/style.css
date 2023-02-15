@@ -1,0 +1,86 @@
+/**
+defined inline > #id selector > class selector > element selector
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: cursive;
+  color: #AA7700;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.nav ul {
+  margin: 0;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav a {
+  display: inline-block;
+  padding: .5em;
+  color: #FFFFFF;
+  text-decoration: overline;
+}
+
+.main-nav {
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: lighter;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.main-nav li {
+  padding: 0.5%;
+}
+
+.nav a:hover {
+  background-color: #666666;
+}
+
+.main-header {
+  background-color: #668800;
+  background-size: cover;
+  padding-bottom: 30px;
+}
+
+.myname {
+  text-align: center;
+  margin: 0;
+  font-size: 4em;
+  font-family: fantasy;
+  font-weight: normal;
+  color: #EEFFBB;
+}
+
+.motto {
+  text-align: center;
+  margin: 0;
+  font-size: 1;
+  font-family: fantasy;
+  font-weight: normal;
+  color: #DDAA00;
+}
+
+.content-section {
+  margin: 1em;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+}
+
+.section-header {
+  font-family: monospace;
+  font-weight: normal;
+  font-size: 2.5em;
+}
