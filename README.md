@@ -18,7 +18,6 @@ Finally, I know how to update file on Github through git config.
 Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 
 :notebook_with_decorative_cover: *I'll continuously update README to record down my learning...*
-
 ___
 
 ### Learning Note
@@ -27,12 +26,15 @@ ___
 **Node**
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 
+**CSS**
+- [design web page](https://github.com/rubywu0604/learningNote/tree/main/html)
+
 ### :pushpin: 14Feb.2023
 **LeetCode**
-- 14. Longest Common Prefix
+- 14.Longest Common Prefix
 
 **HTML**
-- create web page
+- [create web page](https://github.com/rubywu0604/learningNote/tree/main/html)
 
 ### :pushpin: 13Feb.2023
 **javaScript**
@@ -41,7 +43,7 @@ ___
 
 ### :pushpin: 10Feb.2023
 **javaScript**
-- [Regular Chatbot](https://youtu.be/sa-TUpSx1JA)(practice in [exercism](https://exercism.org/tracks/javascript/exercises/regular-chatbot/solutions/rubywu0604))
+- [Regular Expression](https://youtu.be/sa-TUpSx1JA)(practice in [exercism](https://exercism.org/tracks/javascript/exercises/regular-chatbot/solutions/rubywu0604))
 - Array Loops (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-looping-enchantments/solutions/rubywu060400))
 
 ### :pushpin: 09Feb.2023
@@ -50,7 +52,7 @@ ___
 - [prototype chain](https://youtu.be/GhJTy5-X3kA)
 
 **LeetCode**
-- 136. Single Number
+- 136.Single Number
 
 ### :pushpin: 07.08Feb.2023
 **javaScript**
