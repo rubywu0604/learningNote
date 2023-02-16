@@ -22,19 +22,26 @@ ___
 
 ### Learning Note
 
+### :pushpin: 16Feb.2023
+**Node**
+- Node.js Tutorial
+
+**CSS**
+- [design my web](html/style.css)
+
 ### :pushpin: 15Feb.2023
 **Node**
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 
 **CSS**
-- [design web page](https://github.com/rubywu0604/learningNote/tree/main/html)
+- [design my web](html/style.css)
 
 ### :pushpin: 14Feb.2023
 **LeetCode**
 - 14.Longest Common Prefix
 
 **HTML**
-- [create web page](https://github.com/rubywu0604/learningNote/tree/main/html)
+- [create my web](html/home.html)
 
 ### :pushpin: 13Feb.2023
 **javaScript**
