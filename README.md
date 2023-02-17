@@ -36,13 +36,6 @@ ___
 
 ### :pushpin: 15Feb.2023
 **Node**
-- Node.js Tutorial
-
-**CSS**
-- [design my web](html/style.css)
-
-### :pushpin: 15Feb.2023
-**Node**
 - [Node.js Tutorial](https://www.w3schools.com/nodejs/default.asp)
 
 **CSS**
