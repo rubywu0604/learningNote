@@ -22,10 +22,15 @@ ___
 
 ### Learning Note
 
-### :pushpin: 16Feb.2023
+### :pushpin: 17Feb.2023
 **Node**
-- Node.js Tutorial
+- HTTP module
+- [File system](Node/note.md)
+- [URL module1](Node/demo_read_url.js) / [URL module2](Node/demo_querystring.js)
+- [NPM - Node.js package mamager](Node/NPM)
+- [Events](Node/eventEmitter.js)
 
+### :pushpin: 16Feb.2023
 **CSS**
 - [design my web](html/style.css)
 
