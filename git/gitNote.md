@@ -12,24 +12,18 @@ $ git mv oldFileName newFileName
 
 ## amend commit record
 
-##### amend the latest commit message
+1. amend the latest commit message / add file to the latest commit
 
-```
-$ git commit --amend -m "newCommitMsg"
-````
-
-##### add file to the latest commit
-
-   (reset the latest commit-not stage > add new file to stage > commit again)
+   ( add new file to stage > commit again )
 
    note: "--no-edit" = no need to update commit msg
 
 ```
-$ git reset > $ git add newFileName
+$ git add newFileName
 > $ git commit --amend --no-edit or $ git commit --amend -m "newCommitMsg"
 ```
 
-##### amend the commit record after the one witch had been pushed (History data)
+2. amend the commit record after the one witch had been pushed (History data)
 
    note: "bb0c9c2" = start of SHA-1 / ^ = ~1 ... ^^^^^ = ~5
 
@@ -55,7 +49,7 @@ or $ git co <harsh> --hard
 ##### _main_ pull back _feature_ (fast forward)
 
 ```
-@ at branch main
+@main branch
 $ git merge feature
 ```
 
@@ -83,7 +77,7 @@ decide to use **ours or theirs** to solve the conflict (depends on your branch p
 
 ```
 by batch : $ git co . --ours / $ git co . --theirs
-by file :  $ git co <filename> --ours / $ git co <filename> --theirs) 
+by file :  $ git co <filename> --ours / $ git co <filename> --theirs)
 
 > $ git add . > $ git merge --continue
 ```
@@ -92,7 +86,7 @@ by file :  $ git co <filename> --ours / $ git co <filename> --theirs)
 _feature_ insert into _main_
 
 ```
-@branch feature
+@feature branch
 $ git rebase -i main or $ git rebase main
 ```
 
