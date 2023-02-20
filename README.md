@@ -22,6 +22,16 @@ ___
 
 ### Learning Note
 
+### :pushpin: 20Feb.2023
+**Node**
+- Node.js Upload Files
+- [ProjectProfile: html/css opened success on localhost by node](ProjectProfile) (http://localhost:8080/home.html)
+- Sending Email using Node.js
+
+
+**Git**
+- [Git concepts review](https://www.codecademy.com/resources/docs/git/add)
+
 ### :pushpin: 17Feb.2023
 **Node**
 - HTTP module
