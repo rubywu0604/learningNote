@@ -22,6 +22,11 @@ ___
 
 ### Learning Note
 
+### :pushpin: 21Feb.2023
+- [HTML basic (HyperText Markup Language)](https://www.codecademy.com/resources/docs/html/attributes)
+- [HTML element](https://www.codecademy.com/resources/docs/html/elements)
+
+
 ### :pushpin: 20Feb.2023
 **Node**
 - Node.js Upload Files
