@@ -21,11 +21,24 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 22Feb.2023
+**HTML**/**javaScript**/**CSS**
+- combination in ProjectMoney: three files (HTML/JS/CSS) interact on web page
+
+  [javascript file: "tableAct.js"](ProjectMoney/tableAct.js) two functions demo as below:
+
+ a. function setTimeout()
+<video src="https://user-images.githubusercontent.com/120363088/220559533-b65c6740-544e-4a0c-82b5-22c1b81993ac.mp4" controls="controls" style="max-width: 400px;">
+</video>
+
+ b. function sum()
+<video src="https://user-images.githubusercontent.com/120363088/220559450-7fb516d7-cc0a-4abd-8e2f-605e92d33b82.mp4" controls="controls" style="max-width: 400px;">
+</video>
 
 ### :pushpin: 21Feb.2023
+**HTML**
 - [HTML basic (HyperText Markup Language)](https://www.codecademy.com/resources/docs/html/attributes)
 - [HTML element](https://www.codecademy.com/resources/docs/html/elements)
-
 
 ### :pushpin: 20Feb.2023
 **Node**
