@@ -34,6 +34,7 @@ ___
  b. function sum()
 <video src="https://user-images.githubusercontent.com/120363088/220559450-7fb516d7-cc0a-4abd-8e2f-605e92d33b82.mp4" controls="controls" style="max-width: 400px;">
 </video>
+- [CSS basic](https://www.codecademy.com/learn/learn-css)
 
 ### :pushpin: 21Feb.2023
 **HTML**
