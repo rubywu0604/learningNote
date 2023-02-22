@@ -6,6 +6,15 @@
   border
 }
 
+.temp {
+  text-align: center;
+  font-family: cursive;
+  font-weight: normal;
+  font-size: 1.7em;
+  color: #800080;
+  margin-bottom: 0;
+}
+
 .welcome {
   text-align: center;
   margin: 0;
