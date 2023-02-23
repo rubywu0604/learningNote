@@ -1,0 +1,54 @@
+
+* { /* Resetting Defaults */
+  margin: 0;
+  padding: 0;
+}
+
+.main-header {
+  background-color: #800080;
+  background-size: contain;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.temp {
+  text-align: center;
+  font-family: cursive;
+  font-weight: normal;
+  font-size: 1em;
+  color: #800080;
+  margin-bottom: 0;
+}
+
+.welcome {
+  text-align: center;
+  margin: 0;
+  font-size: 4em;
+  font-family: cursive;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+
+.note {
+  text-align: center;
+  font-family: cursive;
+  font-weight: normal;
+  font-size: 1em;
+  color: #CCCCFF;
+  margin-bottom: 0;
+}
+
+.p {
+    display: block;
+    margin: 0;
+}
+
+.item {
+  padding-left: 30px;
+  background-color: #DDDDDD;
+  color: #AA7700;
+}
+.table {
+  padding-left: 30px;
+  text-align: left;
+}
