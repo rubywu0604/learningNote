@@ -21,6 +21,13 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 23Feb.2023
+**mySQL**
+- install mySQL
+- using Node to connect / creatDB / creatTable
+
+**reading** *(MySQL Cookbook, 4th Edition)*
+
 ### :pushpin: 22Feb.2023
 **HTML**/**javaScript**/**CSS**
 - combination in ProjectMoney: three files (HTML/JS/CSS) interact on web page
