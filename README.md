@@ -21,6 +21,18 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 27.28Feb.2023
+**mySQL**
+- [mySQL basic](https://www.w3schools.com/sql/default.asp)
+- [completed mySQL exercise](https://www.w3schools.com/SQL/exercise.asp?fbclid=IwAR06K-mI1AdOFa5_sE9Xoum4wHpN4abR4F-4p1pQgjaQXe0LSEVG3vY2308)
+
+### :pushpin: 23Feb.2023
+**mySQL**
+- install mySQL
+- using Node to connect / creatDB / creatTable
+
+**reading** *(MySQL Cookbook, 4th Edition)*
+
 ### :pushpin: 22Feb.2023
 **HTML**/**javaScript**/**CSS**
 - combination in ProjectMoney: three files (HTML/JS/CSS) interact on web page
