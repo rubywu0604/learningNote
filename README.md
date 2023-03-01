@@ -21,6 +21,26 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 01.Mar.2023
+**javaScript**
+- [exercism](https://exercism.org/tracks/javascript/exercises/two-fer/solutions/rubywu0604)
+
+**LeetCode**
+- 27.Remove Element
+
+**mySQL**
+- SQL Database : create / drop / backup
+- SQL table : create / drop / alter
+- SQL Constraint:
+  * NOT NULL - Ensures that a column cannot have a NULL value
+  * UNIQUE - Ensures that all values in a column are different
+  * PRIMARY KEY - A combination of a NOT NULL and UNIQUE. Uniquely identifies each row in a table
+  * FOREIGN KEY - Prevents actions that would destroy links between tables
+  * CHECK - Ensures that the values in a column satisfies a specific condition
+  * DEFAULT - Sets a default value for a column if no value is specified
+  * CREATE INDEX - Used to create and retrieve data from the database very quickly
+
+
 ### :pushpin: 27.28Feb.2023
 **mySQL**
 - [mySQL basic](https://www.w3schools.com/sql/default.asp)
