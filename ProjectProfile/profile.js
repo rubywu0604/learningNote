@@ -14,6 +14,7 @@ app.use("/js", express.static(__dirname + "public/js"));
 app.set("views", "./views")
 app.set("view engine", "ejs")
 
+//API routes
 app.get("/home.html", function (req, res) {  // open with "http://localhost:8080/home.html"
   res.render("home");
 })
