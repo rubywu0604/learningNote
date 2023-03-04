@@ -8,7 +8,7 @@
   <body>
     <img src="" id="facebook" width=480 height=480 />
 
-    <script> //by using promises function
+    <!-- <script> //by using promises function
       console.log("about to fetch the facebook");
 
       fetch("facebook.jpg").then(response => {
@@ -23,15 +23,14 @@
         console.log("Oops! error!");
         console.error(error);
       })
-    </script>
+    </script> -->
 
-    <!-- <script> //by using async & await finction
+    <script> //by using async & await finction
     async function showFacebook() {
       const response = await fetch("facebook.jpg")
       const blob = await response.blob();
       document.getElementById('facebook').src = URL.createObjectURL(blob);
     }
-
 
     showFacebook()
     .then(response => {
@@ -41,7 +40,7 @@
       console.log("Oops! error!");
       console.error(error);
     })
-    </script> -->
+    </script>
 
   </body>
 </html>
