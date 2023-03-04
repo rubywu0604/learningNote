@@ -21,6 +21,17 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 04.Mar.2023
+**javaScript**
+- [fetch API/ promises/ async/ await](https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=3)
+- fetch CSV file and parse it into text
+
+### :pushpin: 03.Mar.2023
+**mySQL/Node**
+- [Node.js MySQL basic](https://www.w3schools.com/nodejs/nodejs_mysql.asp) : insert / select / where / order by / drop
+- prevent injection: escape / [?](https://www.w3schools.com/nodejs/nodejs_mysql_where.asp) / [@](https://www.w3schools.com/sql/sql_injection.asp)
+- [combine tables : Join](https://www.w3schools.com/nodejs/nodejs_mysql_join.asp)
+
 ### :pushpin: 01.Mar.2023
 **javaScript**
 - [exercism](https://exercism.org/tracks/javascript/exercises/two-fer/solutions/rubywu0604)
@@ -47,9 +58,9 @@ ___
 - [completed mySQL exercise](https://www.w3schools.com/SQL/exercise.asp?fbclid=IwAR06K-mI1AdOFa5_sE9Xoum4wHpN4abR4F-4p1pQgjaQXe0LSEVG3vY2308)
 
 ### :pushpin: 23Feb.2023
-**mySQL**
+**mySQL/Node**
 - install mySQL
-- using Node to connect / creatDB / creatTable
+- [Node.js tutorial](https://www.w3schools.com/nodejs/default.asp) : using Node to connect / creatDB / creatTable
 
 **reading** *(MySQL Cookbook, 4th Edition)*
 
@@ -88,7 +99,7 @@ ___
 - HTTP module
 - [File system](Node/note.md)
 - [URL module1](Node/demo_read_url.js) / [URL module2](Node/demo_querystring.js)
-- [NPM - Node.js package mamager](Node/NPM)
+- [NPM - Node.js package mamager](Node)
 - [Events](Node/eventEmitter.js)
 
 ### :pushpin: 16Feb.2023
@@ -151,7 +162,7 @@ ___
 
 ### :pushpin: 03Feb.2023
 **javaScript**
-- [Callback](exercism/callback.js) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
+- [Callback](javascript/callback.js) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
 
 **Git**
 - [merge vs rebase](https://www.youtube.com/watch?v=7Mh259hfxJg)
@@ -160,7 +171,7 @@ ___
 
 ### :pushpin: 02Feb.2023
 **javaScript**
-- [Callback](exercism/callback.js) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
+- [Callback](javascript/callback.js) (practice in [exercism](https://exercism.org/tracks/javascript/concepts/callbacks))
 
 **Git**
 - [MARKDOWN](https://youtu.be/HUBNt18RFbo)

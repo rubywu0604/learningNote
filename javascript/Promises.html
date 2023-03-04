@@ -28,6 +28,7 @@
     <script> //by using async & await finction
     async function showFacebook() {
       const response = await fetch("facebook.jpg")
+      //Returns a promise that resolves with a Blob representation of the response body.
       const blob = await response.blob();
       document.getElementById('facebook').src = URL.createObjectURL(blob);
     }
