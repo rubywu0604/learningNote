@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "Promises.html",
+  "scripts": {
+    "start": "nodemon Promises.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
