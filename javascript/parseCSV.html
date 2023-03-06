@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    getData();
+
+// fetch CSV file : 1.parse it 2.graph it
+
+    async function getData(){
+      const response = await fetch('ZonAnn.Ts+dSST.csv');
+      const data = await response.text();
+      //use split() to saperate each lines of the data into row
+      const table = data.split('\n').slice(1);
+      table.forEach(row => {
+        const column = row.split(',');
+        const year = column[0];
+        const temp = column[1];
+        console.log(year, temp);
+      })
+    }
+
+    </script>
+  </body>
+</html>
