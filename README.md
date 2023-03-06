@@ -21,10 +21,19 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 06.Mar.2023
+**working with data and API with javaScript**
+- client-side: graph the CSV file into chart by using chart.js
+- client-side: fetch JSON data from API
+- Geolocate : [2.2 Geolocation Web API - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=3ls013DBcww&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=10)
+- server-side: server received data from [routing](https://expressjs.com/en/guide/routing.html)(the end point of the API)
+- [HTTP post request with fetch()](https://www.youtube.com/watch?v=Kw5tC5nQMRY&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=12)
+- JSON parsing: to let the server understand the data by JSON file
+
 ### :pushpin: 04.Mar.2023
-**javaScript**
-- [fetch API/ promises/ async/ await](https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=3)
-- fetch CSV file and parse it into text
+**working with data and API with javaScript**
+- client-side: [fetch image from API/ promises/ async/ await](https://www.youtube.com/watch?v=tc8DU14qX6I&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=3)
+- client-side: fetch CSV file from API and parse it into text
 
 ### :pushpin: 03.Mar.2023
 **mySQL/Node**
