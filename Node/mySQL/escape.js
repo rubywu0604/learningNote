@@ -17,7 +17,12 @@ con.connect(function(err) {
   con.query(sql, [name, adr], function (err, result) {
     if (err) throw err;
     var string = JSON.stringify(result);
+    // [{"orderKey":3,"name":"Amy","address":"Apple st 652"},{"orderKey":4,"name":"Hannah","address":"Mountain 21"}]
     var data = JSON.parse(string);
+    // [
+    //   { orderKey: 3, name: 'Amy', address: 'Apple st 652' },
+    //   { orderKey: 4, name: 'Hannah', address: 'Mountain 21' }
+    // ]
     console.log(data);
   });
 });
