@@ -23,7 +23,7 @@ ___
 ### Learning Note
 ### :pushpin: 07.Mar.2023
 - server-side: server received data from routing(the end point of the API)
-<video src="" controls="controls" style="max-width: 400px;">
+<video src="https://user-images.githubusercontent.com/120363088/223328748-0b8fa315-7e7b-48b8-9496-2bc513173b29.mp4" style="max-width: 500px;">
 </video>
 
 ### :pushpin: 06.Mar.2023
