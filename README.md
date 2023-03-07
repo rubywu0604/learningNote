@@ -21,6 +21,11 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 07.Mar.2023
+- server-side: server received data from routing(the end point of the API)
+<video src="" controls="controls" style="max-width: 400px;">
+</video>
+
 ### :pushpin: 06.Mar.2023
 **working with data and API with javaScript**
 - client-side: graph the CSV file into chart by using chart.js
