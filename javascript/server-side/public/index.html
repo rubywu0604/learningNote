@@ -8,6 +8,7 @@
 <!-- to get the geolocation from the client-sode APIgit ; -->
     <script>
     if ("geolocation" in navigator) {
+// server host static file (index.html) to show the webpage to client
       console.log('geolocation avaliable');
       navigator.geolocation.getCurrentPosition((position) => {
         const lat = position.coords.latitude.toFixed(2);
@@ -15,7 +16,19 @@
         document.getElementById('latitude').textContent = lat;
         document.getElementById('longitude').textContent = lon;
         console.log(position);
-        console.log(lat, lon);
+// below code is for client to sent something to route 'api' with a post
+// if success, then the request in 'index.js' file will receive the msg from client
+        const data = {lat, lon};  // get the location as data
+
+        const options = { // package data as a POST
+          method: 'POST',
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(data) //put data into javascript opject
+        };
+
+        fetch('/api', options); //sent the POST package(combine data) to endpoint 
       });
     } else {
       console.log('geolocation NOT avaliable');
