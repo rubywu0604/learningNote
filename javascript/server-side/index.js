@@ -11,26 +11,23 @@ app.listen(port, () => console.log(`listen on the port: ${port}`));
 app.use(express.static('public'));
 app.use(express.json({limit: '1mb'}));
 
+const database = [];
 // to see whether the endpoint('api') can receive the client's request or not
 // request: server get all info from client's
 // response: server sent thing back to the client base on their req
 app.post('/api', (request, response) => {
+  console.log('I got a request! File updated as below.')
   const location = request.body;
-  console.log('new position: ', location);
+  database.push(location);
+  console.log(database);
 
-  fs.appendFile('data.txt', JSON.stringify(location), function (err) {
+  fs.writeFile('data.txt', JSON.stringify(database), function (err) {
     if (err) throw err;
-    console.log('data file updated as below.'); // receive the POST package(combine data)
-
-  fs.readFile('data.txt', function(err, data){
-    if (err) throw err;
-    console.log(data.toString());
-  }) ;
-});
-
+  });
+ // receive the POST package(combine data)
   response.json({
     status: 'success',
-    latitude: request.body.lat,
-    loogitude: request.body.lon,
+    latitude: location.lat,
+    loogitude: location.lon,
   });
 });

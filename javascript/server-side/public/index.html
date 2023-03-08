@@ -12,8 +12,8 @@
 // server host static file (index.html) to show the webpage to client
       console.log('geolocation avaliable');
       navigator.geolocation.getCurrentPosition((position) => {
-        const lat = position.coords.latitude.toFixed(2);
-        const lon = position.coords.longitude.toFixed(2);
+        const lat = position.coords.latitude;
+        const lon = position.coords.longitude;
         document.getElementById('latitude').textContent = lat;
         document.getElementById('longitude').textContent = lon;
         console.log(position);
