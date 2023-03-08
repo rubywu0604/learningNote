@@ -30,7 +30,7 @@
         };
 //sent the POST package(combine data) to endpoint
         document.getElementById('click').onclick = function submit(){
-          fetch('/api', options).then(response => {
+          fetch('/api', options).then(response => { // fetch POST
             console.log(response); //then handle the response
           });
         }
@@ -43,7 +43,20 @@
 
     <p>
       latitude: <span id="latitude"></span>°<br>
-      longitude: <span id="longitude"></span>°
+      longitude: <span id="longitude"></span>°<br>
+      time: <span id="time"></span><br>
+
+      <script>
+      const datetime = new Date();
+
+      function refreshTime() {
+       const timeDisplay = document.getElementById("time");
+       const dateString = new Date().toLocaleString();
+       const formattedString = dateString.replace(", ", " - ");
+       timeDisplay.textContent = formattedString;
+     }
+       setInterval(refreshTime, 1000);
+      </script>
     </p>
 
     <button type="button" name="button" id="click">submit</button>
