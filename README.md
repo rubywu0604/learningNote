@@ -21,14 +21,20 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 07.Mar.2023
+**working with data and API with javaScript**
+- server-side: server received data from [routing](https://expressjs.com/en/guide/routing.html)(the end point of the API)
+<video src="https://user-images.githubusercontent.com/120363088/223328748-0b8fa315-7e7b-48b8-9496-2bc513173b29.mp4" style="max-width: 500px;">
+</video>
+- [HTTP post request with fetch()](https://www.youtube.com/watch?v=Kw5tC5nQMRY&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=12)
+- JSON parsing: to let the server understand the data by JSON file
+- fs.appendFile and fs.readFile to save the data received by server
+
 ### :pushpin: 06.Mar.2023
 **working with data and API with javaScript**
 - client-side: graph the CSV file into chart by using chart.js
 - client-side: fetch JSON data from API
 - Geolocate : [2.2 Geolocation Web API - Working with Data and APIs in JavaScript](https://www.youtube.com/watch?v=3ls013DBcww&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=10)
-- server-side: server received data from [routing](https://expressjs.com/en/guide/routing.html)(the end point of the API)
-- [HTTP post request with fetch()](https://www.youtube.com/watch?v=Kw5tC5nQMRY&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=12)
-- JSON parsing: to let the server understand the data by JSON file
 
 ### :pushpin: 04.Mar.2023
 **working with data and API with javaScript**
