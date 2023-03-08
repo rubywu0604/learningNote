@@ -21,6 +21,12 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 08.Mar.2023
+**working with data and API with javaScript**
+- create database: NeDB
+- fetch() get data from databases
+
+
 ### :pushpin: 07.Mar.2023
 **working with data and API with javaScript**
 - server-side: server received data from [routing](https://expressjs.com/en/guide/routing.html)(the end point of the API)
