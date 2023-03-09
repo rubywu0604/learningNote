@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <ul>
+      <a href="index.html">HOME</a> | <a href="all.html">HISOTRY</a>
+    </ul>
+    <h1>History data</h1>
+
+    <script>
+    getData();
+    async function getData() {
+      const response = await fetch('/api'); // fetch GET
+      const source = await response.json();
+
+      for (item of source) {
+        const root = document.createElement('div');
+        const geo = document.createElement('div');
+        const date = document.createElement('div');
+        const lnbr = document.createElement('br');
+
+        geo.textContent = `${item.lat}°, ${item.lon}°`;
+        date.textContent = new Date(item.time).toLocaleString();
+
+        root.append(geo, date);
+        root.appendChild(lnbr);
+        document.body.append(root);
+      };
+
+      console.log(source);
+    }
+    </script>
+
+  </body>
+</html>

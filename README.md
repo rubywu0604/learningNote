@@ -21,6 +21,22 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 09.Mar.2023
+**mySQL**
+- Executing SQL Statements Read from a File
+ - `$ mysql -u 'user_name' -p 'database' < 'file-name.sql'`
+
+ The "<" symbol tells MySQL to read the SQL statements from the file named "file_name.sql".
+
+- stuck in connection of database and server -unsolved
+- stuck in recover database which deleted by the mistake of executing SQL Statements from a File - solved
+
+### :pushpin: 08.Mar.2023
+**working with data and API with javaScript**
+- create database: NeDB
+- fetch() get data from databases
+
+
 ### :pushpin: 07.Mar.2023
 **working with data and API with javaScript**
 - server-side: server received data from [routing](https://expressjs.com/en/guide/routing.html)(the end point of the API)

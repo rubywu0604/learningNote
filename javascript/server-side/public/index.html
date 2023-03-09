@@ -5,6 +5,9 @@
     <title></title>
   </head>
   <body>
+    <ul>
+      <a href="index.html">HOME</a> | <a href="all.html">HISOTRY</a>
+    </ul>
 <!-- to get the geolocation from the client-sode APIgit ; -->
     <script>
 
@@ -12,8 +15,8 @@
 // server host static file (index.html) to show the webpage to client
       console.log('geolocation avaliable');
       navigator.geolocation.getCurrentPosition((position) => {
-        const lat = position.coords.latitude.toFixed(2);
-        const lon = position.coords.longitude.toFixed(2);
+        const lat = position.coords.latitude;
+        const lon = position.coords.longitude;
         document.getElementById('latitude').textContent = lat;
         document.getElementById('longitude').textContent = lon;
         console.log(position);
@@ -30,7 +33,7 @@
         };
 //sent the POST package(combine data) to endpoint
         document.getElementById('click').onclick = function submit(){
-          fetch('/api', options).then(response => {
+          fetch('/api', options).then(response => { // fetch POST
             console.log(response); //then handle the response
           });
         }
@@ -39,11 +42,24 @@
       console.log('geolocation NOT avaliable');
     }
     </script>
-    <h1>HI, Ruby.</h1>
+    <h1>Hi! This is your current position.</h1>
 
     <p>
       latitude: <span id="latitude"></span>°<br>
-      longitude: <span id="longitude"></span>°
+      longitude: <span id="longitude"></span>°<br>
+      time: <span id="time"></span><br>
+
+      <script>
+      const datetime = new Date();
+
+      function refreshTime() {
+       const timeDisplay = document.getElementById("time");
+       const dateString = new Date().toLocaleString();
+       const formattedString = dateString.replace(", ", " - ");
+       timeDisplay.textContent = formattedString;
+     }
+       setInterval(refreshTime, 1000);
+      </script>
     </p>
 
     <button type="button" name="button" id="click">submit</button>
