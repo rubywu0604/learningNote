@@ -31,12 +31,13 @@ app.post('/api', (request, response) => {
 
 
 app.get('/api', (request, response) => {
-  console.log('here is the data')
-  source.find({}, function (err, source) {
+
+source.find({}, function (err, source) {
     if(err) {
       response.end();
       return;
     };
     response.json(source);
   });
+  console.log('here is the data in', source.filename);
 })
