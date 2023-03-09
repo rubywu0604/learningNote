@@ -21,6 +21,10 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 09.Mar.2023
+**working with data and API with javaScript**
+-
+
 ### :pushpin: 08.Mar.2023
 **working with data and API with javaScript**
 - create database: NeDB
