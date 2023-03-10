@@ -21,6 +21,15 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 10.Mar.2023
+**javascript (freeCodeCamp)**
+- Number, String, Array, if...else
+- Variable
+  - var: can easily overwrite variable declarations
+  - let: a variable with the same name can only be declared once
+  - const: read-only,once a variable is assigned with const, it cannot be reassigned
+  - Note: uppercase variable identifiers for immutable values (ex. const MY_NAME)/ lowercase or camelCase for mutable values like objects and arrays (ex. const firstLine)
+
 ### :pushpin: 09.Mar.2023
 **mySQL**
 - Executing SQL Statements Read from a File
