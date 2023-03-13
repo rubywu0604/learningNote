@@ -21,6 +21,27 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 13.Mar.2023
+**LeetCode**
+21. Merge Two Sorted Lists
+
+**javascript (freeCodeCamp)**
+- switch function (case / break)
+- object (JavaScript will automatically typecast "non-string properties" as strings.)
+- <p>Example of accessing Object Properties with Variables:</p>
+
+<pre><code>const team1 = {
+ 12: "Alice",
+ 16: "Betty",
+ 19: "Cathy"
+};
+const playerNumber = 16;
+const player = team1[playerNumber]; //=> "Betty"
+</code></pre>
+- .hasOwnProperty(propname) => return true or false
+- object Record Collection
+
+
 ### :pushpin: 10.Mar.2023
 **javascript (freeCodeCamp)**
 - Number, String, Array, if...else

@@ -1,9 +1,8 @@
-window.onload = function(){
-    setTimeout(() => {
-    //We use window.onload to check the window has loaded so we can target DOM elements
-    var noteArray = ["please remember to record your spending and earnings ", "<b>EVERYDAY</b>"];
-    var bevel = noteArray.map(note=>"<i>"+note+"</i>");
-    var note ="<ul>" + bevel.join("") + "<ul>";
-    document.getElementById("note").innerHTML = note;
-  }, 1000);
-}
+var list1 = [0, 2, 3];
+var list2 = [1, 5, 6];
+
+for(var i = 0; i < list1.length; i++){
+  var e = list1[i];
+  list2.push(e);
+   };
+console.log(list2.sort());
