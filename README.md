@@ -21,6 +21,21 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 14.Mar.2023
+**javascript (freeCodeCamp)**
+- while loop / do...while loop (ensures that the code inside the loop will run at least once because of the condition fails on the first check)
+- for loop
+- Math.floor() / Math.random()
+ - Generate Random Whole Numbers within a Range
+ `
+ Math.floor(Math.random() * (max - min + 1)) + min
+ `
+- [Recursion()](https://www.youtube.com/watch?v=vLhHyGTkjCs&t=375s)
+ - Recursion is the concept that a function can be expressed in terms of itself.
+
+**LeetCode**
+ 509. Fibonacci Number
+
 ### :pushpin: 13.Mar.2023
 **LeetCode**
 21. Merge Two Sorted Lists
