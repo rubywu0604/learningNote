@@ -21,6 +21,42 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 20.Mar.2023
+**mongoDB**
+- [Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)
+- Aggregation Pipelines
+
+
+### :pushpin: 18.Mar.2023
+**mongoDB**
+- connect to the database with mongoDB shell
+- [Insert Documents](https://www.mongodb.com/docs/manual/tutorial/insert-documents/)
+- [Query Documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+- [Update Documents](https://www.mongodb.com/docs/manual/tutorial/update-documents/)
+- [Delete Documents](https://www.mongodb.com/docs/manual/tutorial/remove-documents/)
+
+
+### :pushpin: 16.Mar.2023
+**AJAX and JSON**
+- [AJAX: Asynchronous JavaScript And XML](https://www.youtube.com/watch?v=82hnvUYY6QA)
+- JSON names require double quotes
+ - JSON string => `'{"id": 1, "name": "Ruby"}'`
+ - JSON object literal => `{"id": 1, "name": "Ruby"}`
+   JSON object literal inside the string
+ - object => `{id: 1, name; "Ruby"}`
+
+- [server only process string] JSON.parse() / JSON.stringify()
+- Web Storage API: localStorage.setItem("keyName", "keyValue") / localStorage.getItem("keyName")
+
+**mongoDB**
+- get start and install (document / collections)
+
+### :pushpin: 15.Mar.2023
+**javascript (freeCodeCamp)**
+- ES6: added many powerful new features, includes Let and Const、Modules、Destructuring Assignment、Arrow Functions、Template Literals、Promise、Class…
+- Object.freeze(objectName): prevent data mutation
+- Arrow Functions
+
 ### :pushpin: 14.Mar.2023
 **javascript (freeCodeCamp)**
 - while loop / do...while loop (ensures that the code inside the loop will run at least once because of the condition fails on the first check)
@@ -34,7 +70,7 @@ ___
  - Recursion is the concept that a function can be expressed in terms of itself.
 
 **LeetCode**
- 509. Fibonacci Number
+509. Fibonacci Number
 
 ### :pushpin: 13.Mar.2023
 **LeetCode**
