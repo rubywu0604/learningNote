@@ -21,6 +21,21 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 20.Mar.2023
+**mongoDB**
+- [Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)
+- Aggregation Pipelines
+
+
+### :pushpin: 18.Mar.2023
+**mongoDB**
+- connect to the database with mongoDB shell
+- [Insert Documents](https://www.mongodb.com/docs/manual/tutorial/insert-documents/)
+- [Query Documents](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+- [Update Documents](https://www.mongodb.com/docs/manual/tutorial/update-documents/)
+- [Delete Documents](https://www.mongodb.com/docs/manual/tutorial/remove-documents/)
+
+
 ### :pushpin: 16.Mar.2023
 **AJAX and JSON**
 - [AJAX: Asynchronous JavaScript And XML](https://www.youtube.com/watch?v=82hnvUYY6QA)
