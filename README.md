@@ -21,6 +21,16 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 21.Mar.2023
+**mongoDB**
+- [lookup: left join](https://www.youtube.com/watch?v=kLlpIuyL8Ms)
+- send Data API request with mongosh
+- connect to mongoDB with Node.js driver
+
+**Project: MoneyList**
+- create new repo
+- connect local to GitHub
+
 ### :pushpin: 20.Mar.2023
 **mongoDB**
 - [Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)
