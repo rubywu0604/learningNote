@@ -23,9 +23,24 @@ ___
 ### Learning Note
 ### :pushpin: 22.Mar.2023
 **Project: MoneyList**
-- connect with mongodb
+
+_*HTML_
+- get data from input button
+- create table: expense list
+- send data to table
+ - problem : can not see data show in table, it seems the "id" in getElementById doesn't work in \<td\> tag
+   - solution: create \<span\> and add "id" into this tag
+
+_* javascript- server connect with API_
 - deploy html on GitHub page (display website online)
-- receive data from html input button and auto save into db
+- receive data endpoint
+  - problem : server unable to get request from endpoint, shows "undefined".
+   - solution : need to parse the data as JSON, so the server can identify data coming from endpoint. In order to give the server an ability to parse data as JSON, use express.json function : `app.use(express.json({limit: '1mb'}));`
+
+_* mongoDB- server connect with database_
+- create new database : clusterML
+- connect with mongodb successfully
+- insert data into database
 
 ### :pushpin: 21.Mar.2023
 **mongoDB**
@@ -35,10 +50,10 @@ ___
 
 **Project: MoneyList**
 - create new repo and connect local branch to GitHub
- - problem 1: clone by HTTPS but need to input id and password every time when push.
+ - problem : clone by HTTPS but need to input id and password every time when push.
    - solution: clone by ssh-key (make sure ssh-key should matched with the github setting, if not matched, generate it by typing
      `ssh-keygen -t ed25519 -C "lksh20602@gmail.com"` in terminal -> open the file and copy new ssh-key -> paste into github setting)
- - problem 2: unable to push at local branch
+ - problem : unable to push at local branch
    - solution: set the remote to upstream, use `git push --set-upstream origin <branch Name>`
 
 ### :pushpin: 20.Mar.2023
