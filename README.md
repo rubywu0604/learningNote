@@ -21,6 +21,12 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 22.Mar.2023
+**Project: MoneyList**
+- connect with mongodb
+- deploy html on GitHub page (display website online)
+- receive data from html input button and auto save into db
+
 ### :pushpin: 21.Mar.2023
 **mongoDB**
 - [lookup: left join](https://www.youtube.com/watch?v=kLlpIuyL8Ms)
@@ -28,8 +34,12 @@ ___
 - connect to mongoDB with Node.js driver
 
 **Project: MoneyList**
-- create new repo
-- connect local to GitHub
+- create new repo and connect local branch to GitHub
+ - problem 1: clone by HTTPS but need to input id and password every time when push.
+   - solution: clone by ssh-key (make sure ssh-key should matched with the github setting, if not matched, generate it by typing
+     `ssh-keygen -t ed25519 -C "lksh20602@gmail.com"` in terminal -> open the file and copy new ssh-key -> paste into github setting)
+ - problem 2: unable to push at local branch
+   - solution: set the remote to upstream, use `git push --set-upstream origin <branch Name>`
 
 ### :pushpin: 20.Mar.2023
 **mongoDB**
