@@ -21,6 +21,18 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 24.Mar.2023
+**Project: MoneyList**
+
+
+### :pushpin: 23.Mar.2023
+**Project: MoneyList**
+
+_* mongoDB- server connect with database_
+- auto insert data into database by click on save button
+  - problem : insert data into mongoDB successfully, but the server console: `Promise { <pending> }`and endpoint unable to get the response.
+    - use `async` and `await` function (Note: await is only valid in async functions and the top level bodies of modules)
+
 ### :pushpin: 22.Mar.2023
 **Project: MoneyList**
 
@@ -40,7 +52,7 @@ _* javascript- server connect with API_
 _* mongoDB- server connect with database_
 - create new database : clusterML
 - connect with mongodb successfully
-- insert data into database
+- insert data into database manually with javascript code
 
 ### :pushpin: 21.Mar.2023
 **mongoDB**
