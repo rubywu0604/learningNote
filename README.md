@@ -21,6 +21,53 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 24.Mar.2023
+**Project: MoneyList**
+
+
+### :pushpin: 23.Mar.2023
+**Project: MoneyList**
+
+_* mongoDB- server connect with database_
+- auto insert data into database by click on save button
+  - problem : insert data into mongoDB successfully, but the server console: `Promise { <pending> }`and endpoint unable to get the response.
+    - use `async` and `await` function (Note: await is only valid in async functions and the top level bodies of modules)
+
+### :pushpin: 22.Mar.2023
+**Project: MoneyList**
+
+_*HTML_
+- get data from input button
+- create table: expense list
+- send data to table
+ - problem : can not see data show in table, it seems the "id" in getElementById doesn't work in \<td\> tag
+   - solution: create \<span\> and add "id" into this tag
+
+_* javascript- server connect with API_
+- deploy html on GitHub page (display website online)
+- receive data endpoint
+  - problem : server unable to get request from endpoint, shows "undefined".
+   - solution : need to parse the data as JSON, so the server can identify data coming from endpoint. In order to give the server an ability to parse data as JSON, use express.json function : `app.use(express.json({limit: '1mb'}));`
+
+_* mongoDB- server connect with database_
+- create new database : clusterML
+- connect with mongodb successfully
+- insert data into database manually with javascript code
+
+### :pushpin: 21.Mar.2023
+**mongoDB**
+- [lookup: left join](https://www.youtube.com/watch?v=kLlpIuyL8Ms)
+- send Data API request with mongosh
+- connect to mongoDB with Node.js driver
+
+**Project: MoneyList**
+- create new repo and connect local branch to GitHub
+ - problem : clone by HTTPS but need to input id and password every time when push.
+   - solution: clone by ssh-key (make sure ssh-key should matched with the github setting, if not matched, generate it by typing
+     `ssh-keygen -t ed25519 -C "lksh20602@gmail.com"` in terminal -> open the file and copy new ssh-key -> paste into github setting)
+ - problem : unable to push at local branch
+   - solution: set the remote to upstream, use `git push --set-upstream origin <branch Name>`
+
 ### :pushpin: 20.Mar.2023
 **mongoDB**
 - [Query Operators](https://www.w3schools.com/mongodb/mongodb_query_operators.php)
