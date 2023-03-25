@@ -21,9 +21,35 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 25.Mar.2023
+**Project: MoneyList**
+_* mongoDB- server connect with database_
+- server receive history data from mongoDB (use `find({})`)
+  - problem: received `{"_events":{},"_eventsCount":0}`
+    - solution: add `toArray()` after `find({})`
+- sort data by date
+- display history data exclude id
+
+_*HTML_
+- show history data on website page
+ - problem: server received data but unable to show on page
+   - solution: transform html file type to ejs, import ejs npm package and set the path to access file
+- input data into html table
+ - problem: there're too many data that I'm unable to handle each item be placed into correct table position.
+   - work-around: Just list down every expense object {date, time, tag, amount} instead insert each data into each column of table. Delete table and create new list by \<span\> tag.
+
+_* javascript- deal with object of an array (data received at server)_
+- query each element(object) as one expense list
+- query value of an each element(object) and send value to html file
+
 ### :pushpin: 24.Mar.2023
 **Project: MoneyList**
 
+_* javascript- request for insert data (POST)_
+- learn about fetch data
+
+_* javascript- request for history data (GET)_
+- learn about get and render
 
 ### :pushpin: 23.Mar.2023
 **Project: MoneyList**
@@ -31,7 +57,7 @@ ___
 _* mongoDB- server connect with database_
 - auto insert data into database by click on save button
   - problem : insert data into mongoDB successfully, but the server console: `Promise { <pending> }`and endpoint unable to get the response.
-    - use `async` and `await` function (Note: await is only valid in async functions and the top level bodies of modules)
+    - solution: use `async` and `await` function (Note: await is only valid in async functions and the top level bodies of modules)
 
 ### :pushpin: 22.Mar.2023
 **Project: MoneyList**
