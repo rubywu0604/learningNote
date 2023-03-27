@@ -21,6 +21,29 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 27.Mar.2023
+**Project: MoneyList**
+
+_*TO DO LIST: Delete function_
+- identify selected data
+- send delete request to server
+- delete data from mongoDB
+- response the updated data to endpoint
+
+_*HTML_
+- create history list table
+ - problem: all data show in one line, unable to separate it by \<br\>
+   - solution: combine tag \<tr\> into javascript code, so the table will break to the next line.
+- add link to css file
+- add label for delete
+
+_* javascript_
+- addEventListener: retrieve history data from mongoDB when data updated
+- express.static with css file
+
+_*CSS_
+- add Bootstrap CDN link
+
 ### :pushpin: 25.Mar.2023
 **Project: MoneyList**
 _* mongoDB- server connect with database_
