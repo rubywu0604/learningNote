@@ -21,6 +21,12 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 28.Mar.2023
+**javascript (freeCodeCamp)**
+- ES6-Spread Operator: `Math.max.apply(null, arr)` = `Math.max(...arr)`
+- [Destructuring Assignment](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements)
+- [class: getters and setters](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)
+
 ### :pushpin: 27.Mar.2023
 **Project: MoneyList**
 
