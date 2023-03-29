@@ -21,6 +21,35 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 29.Mar.2023
+**javascript (freeCodeCamp)**
+- export / import
+- promise (resolve/ reject) (then: result/catch: error)
+<pre><code>const myPromise = new Promise((resolve, reject) => {
+  if (responseFromServer){
+    resolve("We got the data");
+  } else {  
+    reject("Data not received");
+  }
+})
+       * // if "responseFromServer" = true *
+makeServerRequest.then(result => {
+  console.log(result);   //=> "We got the data"
+});
+       * // if "responseFromServer" = false *
+makeServerRequest.catch(error => {
+  console.log(error);  //=> "Data not received"
+});
+</code></pre>
+- [regular expressions](https://www.youtube.com/watch?v=ZfQFUJhPqMM) : .match() / .test()
+
+`"Hello, World!".match(/Hello/);`
+
+`/Hello/.test("Hello, World!");`
+- [greedy matched (regex patterns default to greedy) and lazy matched with "?"](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)
+- \w = [a-zA-Z0-9_] ; \W = [^a-zA-Z0-9_]
+
+
 ### :pushpin: 28.Mar.2023
 **javascript (freeCodeCamp)**
 - ES6-Spread Operator: `Math.max.apply(null, arr)` = `Math.max(...arr)`
