@@ -21,11 +21,30 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 31.Mar.2023
+**Project: MoneyList**
+
+_*TO DO LIST: Delete function_
+- send delete request to server
+- delete data from mongoDB
+- response the updated data to endpoint
+
+_* javascript_
+- to get value from input tag when click checkbox
+ - always get the first `<%= expList._id %>` value in every checkbox
+   - use `querySelectorAll` to save different value from tag-id
+- identify the checkbox is checked or unchecked
+
+_*HTML_
+- put `<%= expList._id %>` in checkboxe
+ - unable to read `<%= expList._id %>` in HTML id Tag
+   - should insert `<%= expList._id %>` as "value" of tag
+
 ### :pushpin: 30.Mar.2023
 **LeetCode - [Algorithm I](https://leetcode.com/study-plan/algorithm/?progress=xsv7gb7t)**
-- 704. Binary Search
-- 278. First Bad Version
-- 35. Search Insert Position
+- 704.Binary Search
+- 278.First Bad Version
+- 35.Search Insert Position
 
 ### :pushpin: 29.Mar.2023
 **javascript (freeCodeCamp)**
@@ -260,6 +279,7 @@ const player = team1[playerNumber]; //=> "Betty"
 - server-side: server received data from [routing](https://expressjs.com/en/guide/routing.html)(the end point of the API)
 <video src="https://user-images.githubusercontent.com/120363088/223328748-0b8fa315-7e7b-48b8-9496-2bc513173b29.mp4" style="max-width: 500px;">
 </video>
+
 - [HTTP post request with fetch()](https://www.youtube.com/watch?v=Kw5tC5nQMRY&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X&index=12)
 - JSON parsing: to let the server understand the data by JSON file
 - fs.appendFile and fs.readFile to save the data received by server
