@@ -21,6 +21,18 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 06.Apr.2023
+**Project: MoneyList**
+- completed deleteMany function and delete data from mongoDB successfully
+
+**javascript (freeCodeCamp)**
+- Debugging
+- Basic Data Structures
+
+### :pushpin: 04.Apr.2023
+**Project: MoneyList**
+- create .env file to hide MongoDB password
+
 ### :pushpin: 31.Mar.2023
 **Project: MoneyList**
 
