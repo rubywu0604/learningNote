@@ -21,6 +21,11 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 07.Apr.2023
+**LeetCode**
+- 977.Squares of a Sorted Array
+- 189.Rotate Array
+
 ### :pushpin: 06.Apr.2023
 **Project: MoneyList**
 - completed deleteMany function and delete data from mongoDB successfully
