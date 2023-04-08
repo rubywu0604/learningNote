@@ -21,8 +21,12 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 08.Apr.2023
+**Project: MoneyList**
+- copy js and html to income page
+
 ### :pushpin: 07.Apr.2023
-**LeetCode**
+**LeetCode - [Algorithm I](https://leetcode.com/study-plan/algorithm/?progress=xsv7gb7t)**
 - 977.Squares of a Sorted Array
 - 189.Rotate Array
 
