@@ -21,6 +21,22 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 11.Apr.2023
+**Project: MoneyList**
+- change server to HEROKU: `const port = process.env.PORT || 8080`
+- stock in TypeError: Cannot read properties of undefined (reading 'startsWith')at new ConnectionString
+ - the key:value pair connection string in ".env" file should manually input in Config Vars on HEROKU
+ - sign stackOverView to ask question for deploy
+
+
+### :pushpin: 10.Apr.2023
+**Project: MoneyList**
+- completed CSS design
+- stock in deploy my project on GitHub page
+ - I found GitHub page can only host static html files
+- sign in HEROKU website, try to use HEROKU to host my project
+ - fail to deploy due to TypeError: Cannot read properties of undefined (reading 'startsWith')
+
 ### :pushpin: 08.Apr.2023
 **Project: MoneyList**
 - copy js and html to income page
