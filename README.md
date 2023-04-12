@@ -21,12 +21,22 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 12.Apr.2023
+**Project: MoneyList**
+- still stock in unable connect to mongoDB after deploying (Heroku continuously restart to access database and close...)
+ - solution 1: use another application "fly.io" to deploy my code, still failed
+ - solution 2: create client.connect() function to connect with MongoDB
+ - solution 3: update IP address to allow access from anywhere (0.0.0.0/0) in MongoDB -> Network Access
+
+- :tada: deploy success on Heroku! :tada:
+  [MoneyList](https://money-list-github-heroku.herokuapp.com/)
+
 ### :pushpin: 11.Apr.2023
 **Project: MoneyList**
-- change server to HEROKU: `const port = process.env.PORT || 8080`
+- change server to Heroku: `const port = process.env.PORT || 8080`
 - stock in TypeError: Cannot read properties of undefined (reading 'startsWith')at new ConnectionString
- - the key:value pair connection string in ".env" file should manually input in Config Vars on HEROKU
- - sign stackOverView to ask question for deploy
+ - solution: the key:value pair connection string in ".env" file should manually input in Config Vars on Heroku
+- unable connect to mongoDB after deploying (Heroku continuously restart to access database and close...and then shows the restart action timeout)
 
 
 ### :pushpin: 10.Apr.2023
