@@ -23,6 +23,13 @@ ___
 ### Learning Note
 ### :pushpin: 12.Apr.2023
 **Project: MoneyList**
+- create login and signup page
+- create mongoDB collection: user
+- completed signup function
+- completed login function
+
+### :pushpin: 12.Apr.2023
+**Project: MoneyList**
 - still stock in unable connect to mongoDB after deploying (Heroku continuously restart to access database and close...)
  - solution 1: use another application "fly.io" to deploy my code, still failed
  - solution 2: create client.connect() function to connect with MongoDB
