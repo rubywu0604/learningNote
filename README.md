@@ -21,8 +21,38 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 12.Apr.2023
+**Project: MoneyList**
+- still stock in unable connect to mongoDB after deploying (Heroku continuously restart to access database and close...)
+ - solution 1: use another application "fly.io" to deploy my code, still failed
+ - solution 2: create client.connect() function to connect with MongoDB
+ - solution 3: update IP address to allow access from anywhere (0.0.0.0/0) in MongoDB -> Network Access
+
+- :tada: deploy success on Heroku! :tada:
+  [MoneyList](https://money-list-github-heroku.herokuapp.com/)
+
+### :pushpin: 11.Apr.2023
+**Project: MoneyList**
+- change server to Heroku: `const port = process.env.PORT || 8080`
+- stock in TypeError: Cannot read properties of undefined (reading 'startsWith')at new ConnectionString
+ - solution: the key:value pair connection string in ".env" file should manually input in Config Vars on Heroku
+- unable connect to mongoDB after deploying (Heroku continuously restart to access database and close...and then shows the restart action timeout)
+
+
+### :pushpin: 10.Apr.2023
+**Project: MoneyList**
+- completed CSS design
+- stock in deploy my project on GitHub page
+ - I found GitHub page can only host static html files
+- sign in HEROKU website, try to use HEROKU to host my project
+ - fail to deploy due to TypeError: Cannot read properties of undefined (reading 'startsWith')
+
+### :pushpin: 08.Apr.2023
+**Project: MoneyList**
+- copy js and html to income page
+
 ### :pushpin: 07.Apr.2023
-**LeetCode**
+**LeetCode - [Algorithm I](https://leetcode.com/study-plan/algorithm/?progress=xsv7gb7t)**
 - 977.Squares of a Sorted Array
 - 189.Rotate Array
 
