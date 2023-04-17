@@ -21,7 +21,20 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
-### :pushpin: 12.Apr.2023
+### :pushpin: 17.Apr.2023
+**Project: MoneyList**
+- add specify userId in the route after login or signin
+- add userName in title
+- show specify user data after login successfully
+- insert data with userId key:value
+- delete data when user selected 
+
+### :pushpin: 14.Apr.2023
+**Project: MoneyList**
+- use node sent email
+- check email by using regular expression
+
+### :pushpin: 13.Apr.2023
 **Project: MoneyList**
 - create login and signup page
 - create mongoDB collection: user
