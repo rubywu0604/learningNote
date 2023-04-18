@@ -21,13 +21,20 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
-### :pushpin: 17.Apr.2023
+### :pushpin: 18.Apr.2023
+**LeetCode - [LeetCode 75: Day 1
+Prefix Sum
+](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 1480.Running Sum of 1d Array
+- 724.Find Pivot Index
+
+### :pushpin: 17.Apr.2023Â
 **Project: MoneyList**
 - add specify userId in the route after login or signin
 - add userName in title
 - show specify user data after login successfully
 - insert data with userId key:value
-- delete data when user selected 
+- delete data when user selected
 
 ### :pushpin: 14.Apr.2023
 **Project: MoneyList**
