@@ -21,10 +21,20 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 21.Apr.2023
+**LeetCode - [LeetCode 75: Day 3.4 Linked List](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 21.Merge Two Sorted Lists
+- 206.Reverse Linked List
+- 876.Middle of the Linked List
+- 142.Linked List Cycle II
+
+### :pushpin: 19.Apr.2023
+**LeetCode - [LeetCode 75: Day 2 String](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 205.Isomorphic Strings
+- 392.Is Subsequence
+
 ### :pushpin: 18.Apr.2023
-**LeetCode - [LeetCode 75: Day 1
-Prefix Sum
-](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+**LeetCode - [LeetCode 75: Day 1 Prefix Sum](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
 - 1480.Running Sum of 1d Array
 - 724.Find Pivot Index
 
