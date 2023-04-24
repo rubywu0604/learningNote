@@ -21,7 +21,37 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
-### :pushpin: 12.Apr.2023
+### :pushpin: 21.Apr.2023
+**LeetCode - [LeetCode 75: Day 3.4 Linked List](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 21.Merge Two Sorted Lists
+- 206.Reverse Linked List
+- 876.Middle of the Linked List
+- 142.Linked List Cycle II
+
+### :pushpin: 19.Apr.2023
+**LeetCode - [LeetCode 75: Day 2 String](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 205.Isomorphic Strings
+- 392.Is Subsequence
+
+### :pushpin: 18.Apr.2023
+**LeetCode - [LeetCode 75: Day 1 Prefix Sum](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 1480.Running Sum of 1d Array
+- 724.Find Pivot Index
+
+### :pushpin: 17.Apr.2023Â
+**Project: MoneyList**
+- add specify userId in the route after login or signin
+- add userName in title
+- show specify user data after login successfully
+- insert data with userId key:value
+- delete data when user selected
+
+### :pushpin: 14.Apr.2023
+**Project: MoneyList**
+- use node sent email
+- check email by using regular expression
+
+### :pushpin: 13.Apr.2023
 **Project: MoneyList**
 - create login and signup page
 - create mongoDB collection: user
