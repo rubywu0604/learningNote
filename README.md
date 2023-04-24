@@ -21,6 +21,13 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 24.Apr.2023
+**LeetCode - [LeetCode 75: Day 7 Linked List](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 409.Longest Palindrome
+- 704.Binary Search
+- 278.First Bad Version
+- 412.Fizz Buzz
+
 ### :pushpin: 21.Apr.2023
 **LeetCode - [LeetCode 75: Day 3.4 Linked List](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
 - 21.Merge Two Sorted Lists
