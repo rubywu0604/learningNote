@@ -21,6 +21,23 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 25.Apr.2023
+**javascript (freeCodeCamp)**
+- [diff from for...in and for...of](https://kanboo.github.io/2018/01/30/JS-for-of-forin/)
+ - [for...in](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement) => return key
+ - for...of => return value
+
+
+ **Project: MoneyList**
+ - [presentation prepare](https://docs.google.com/presentation/d/1mzNzTWuPmF3yvVK8qMLGNeBnSurMgJStn9in3FEZYBY/edit?usp=sharing)
+
+### :pushpin: 24.Apr.2023
+**LeetCode - [LeetCode 75: Day 7 Linked List](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
+- 409.Longest Palindrome
+- 704.Binary Search
+- 278.First Bad Version
+- 412.Fizz Buzz
+
 ### :pushpin: 21.Apr.2023
 **LeetCode - [LeetCode 75: Day 3.4 Linked List](https://leetcode.com/study-plan/leetcode-75/?progress=x1pikkqt)**
 - 21.Merge Two Sorted Lists
