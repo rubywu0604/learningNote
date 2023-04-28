@@ -21,12 +21,19 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 28.Apr.2023
+**javascript (freeCodeCamp)**
+- Basic Algorithm Scripting
+
+### :pushpin: 27.Apr.2023
+**LeetCode**
+- 283.Move Zeroes
+
 ### :pushpin: 25.Apr.2023
 **javascript (freeCodeCamp)**
 - [diff from for...in and for...of](https://kanboo.github.io/2018/01/30/JS-for-of-forin/)
  - [for...in](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/iterate-through-the-keys-of-an-object-with-a-for---in-statement) => return key
  - for...of => return value
-
 
  **Project: MoneyList**
  - [presentation prepare](https://docs.google.com/presentation/d/1mzNzTWuPmF3yvVK8qMLGNeBnSurMgJStn9in3FEZYBY/edit?usp=sharing)
