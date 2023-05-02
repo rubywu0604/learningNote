@@ -21,9 +21,23 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 2.May.2023
+**javascript (freeCodeCamp)**
+- Basic Algorithm Scripting
+ - Confirm the Ending
+ - Repeat a String Repeat a String
+ - Truncate a String
+ - Finders Keepers (indexOf() => find the FIRST index of element in array)
+ - Title Case a Sentence (substring())
+
 ### :pushpin: 28.Apr.2023
 **javascript (freeCodeCamp)**
 - Basic Algorithm Scripting
+ - Convert Celsius to Fahrenheit
+ - Reverse a String
+ - Factorialize a Number
+ - Find the Longest Word in a String
+ - Return Largest Numbers in Arrays
 
 ### :pushpin: 27.Apr.2023
 **LeetCode**
