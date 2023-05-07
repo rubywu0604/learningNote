@@ -21,6 +21,13 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 5.May.2023
+**javascript (freeCodeCamp)**
+- completed Basic Algorithm Scripting
+- OOP: Object-Oriented Programming
+ - Create Object and Method/ Use Dot Notation to Access the Properties of an Object
+ - Define a Constructor Function and Create Objects
+
 ### :pushpin: 2.May.2023
 **javascript (freeCodeCamp)**
 - Basic Algorithm Scripting
