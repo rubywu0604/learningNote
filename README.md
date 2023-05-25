@@ -21,6 +21,35 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 25.May.2023
+**Python (freeCodeCamp)**
+- Variables, Expressions, and Statements
+- power(\**)  ex. 2\**3 = 8 / 3**3 = 27
+- Intermediate Expressions: Parenthesis(Power > Multiplication > Addition > Left to Right)
+- Conditional Execution (if...else / elif)
+- More Conditional Structures (try/except)
+
+### :pushpin: 24.May.2023
+**Python**
+- install/add Python to zsh
+- variable / input / print
+- converting type: int() / float() / bool() / str()
+- atom switch to VS Code
+
+
+### :pushpin: 7.May.2023
+**javascript (freeCodeCamp)**
+- instanceof (Boolean: check the variable is created from Constructor or not)
+- Use Prototype Properties to Reduce Duplicate Code
+
+
+### :pushpin: 5.May.2023
+**javascript (freeCodeCamp)**
+- completed Basic Algorithm Scripting
+- OOP: Object-Oriented Programming
+ - Create Object and Method/ Use Dot Notation to Access the Properties of an Object
+ - Define a Constructor Function and Create Objects
+
 ### :pushpin: 2.May.2023
 **javascript (freeCodeCamp)**
 - Basic Algorithm Scripting
@@ -76,7 +105,7 @@ ___
 - 1480.Running Sum of 1d Array
 - 724.Find Pivot Index
 
-### :pushpin: 17.Apr.2023Â
+### :pushpin: 17.Apr.2023
 **Project: MoneyList**
 - add specify userId in the route after login or signin
 - add userName in title
