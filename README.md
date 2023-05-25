@@ -36,12 +36,10 @@ ___
 - converting type: int() / float() / bool() / str()
 - atom switch to VS Code
 
-
 ### :pushpin: 7.May.2023
 **javascript (freeCodeCamp)**
 - instanceof (Boolean: check the variable is created from Constructor or not)
 - Use Prototype Properties to Reduce Duplicate Code
-
 
 ### :pushpin: 5.May.2023
 **javascript (freeCodeCamp)**
