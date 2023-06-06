@@ -1,4 +1,3 @@
-# Note
 print("HELLO")
 
 name = input("What is your name? ")
@@ -14,3 +13,6 @@ def two_sum(a, b) :
     return a + b
 
 print(two_sum.__doc__)
+
+s = set("Hello")
+print(s)

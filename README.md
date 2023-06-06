@@ -21,6 +21,38 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 6.Jun.2023
+**Python**
+- Lists (practice in [exercism](https://exercism.org/tracks/python/exercises/card-games/solutions/rubywu0604))
+
+### :pushpin: 5.Jun.2023
+**Python**
+- Strings (practice in [exercism](https://exercism.org/tracks/python/exercises/little-sisters-vocab/solutions/rubywu0604))
+- Comparisons (practice in [exercism](https://exercism.org/tracks/python/exercises/black-jack/solutions/rubywu0604))
+
+### :pushpin: 3.Jun.2023
+**Python**
+- python indentation error example: "IndentationError: expected an indented block" / "IndentationError: unexpected indent"
+
+### :pushpin: 31.May.2023
+**Python**
+- Basic: Variable / number / Bools
+- Set {} : & | - 
+- List [] / Tuple ()
+- Dictionary { 1: a, 2: b, 3: c}
+
+### :pushpin: 30.May.2023
+**Python**
+- Conditionals (practice in [exercism](https://exercism.org/tracks/python/exercises/meltdown-mitigation/solutions/rubywu0604))
+
+### :pushpin: 29.May.2023
+**Python**
+- Bools (practice in [exercism](https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game/solutions/rubywu0604))
+
+### :pushpin: 26.May.2023
+**Python**
+- Number (practice in [exercism](https://exercism.org/tracks/python/exercises/currency-exchange/solutions/rubywu0604))
+
 ### :pushpin: 25.May.2023
 **Python (freeCodeCamp)**
 - Variables, Expressions, and Statements
@@ -573,7 +605,7 @@ const player = team1[playerNumber]; //=> "Betty"
 
 ### :pushpin: 04Feb.2023
 **javaScript**
-- Tpye Conversion (practice in [exercism](https://exercism.org/tracks/javascript/concepts/type-conversion))
+- Type Conversion (practice in [exercism](https://exercism.org/tracks/javascript/concepts/type-conversion))
 - Template Strings/Ternary Operator (practice in [exercism](https://exercism.org/tracks/javascript/exercises/custom-signs/solutions/rubywu0604))
 - Array Destructuring/Rest and Spread (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-destructured-enchantments/solutions/rubywu0604))
 - Array Analysis/Arrow Functions (practice in [exercism](https://exercism.org/tracks/javascript/exercises/elyses-analytic-enchantments/solutions/rubywu0604))
