@@ -1,19 +1,18 @@
-# Note
-# print("HELLO")
+print("HELLO")
 
-# name = input("What is your name? ")
-# print("Hi " + name)
+name = input("What is your name? ")
+print("Hi " + name)
 
-# def two_sum(a, b) :
-#     """summerize two int
-#     :param a: int
-#     :param b: int
-#     takes a and b to sum the result
-#     """
+def two_sum(a, b) :
+    """summerize two int
+    :param a: int
+    :param b: int
+    takes a and b to sum the result
+    """
 
-#     return a + b
+    return a + b
 
-# print(two_sum.__doc__)
+print(two_sum.__doc__)
 
 s = set("Hello")
 print(s)

@@ -21,6 +21,10 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 6.Jun.2023
+**Python**
+- Lists (practice in [exercism](https://exercism.org/tracks/python/exercises/card-games/solutions/rubywu0604))
+
 ### :pushpin: 5.Jun.2023
 **Python**
 - Strings (practice in [exercism](https://exercism.org/tracks/python/exercises/little-sisters-vocab/solutions/rubywu0604))
