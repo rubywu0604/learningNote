@@ -21,6 +21,11 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 12.Jun.2023
+**Python**
+- Tuple (practice in [exercism](https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt/solutions/rubywu0604))
+- Python for Everybody: function / loop / string (Video in freeCodeCamp)
+
 ### :pushpin: 8.Jun.2023
 **Python**
 - Loops (practice in [exercism](https://exercism.org/tracks/python/exercises/making-the-grade/solutions/rubywu0604))
