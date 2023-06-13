@@ -21,9 +21,28 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 13.Jun.2023
+**LeetCode**
+- 383. Ransom Note
+
+### :pushpin: 12.Jun.2023
+**Python**
+- Tuple (practice in [exercism](https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt/solutions/rubywu0604))
+- Python for Everybody: function / loop / string (Video in freeCodeCamp)
+
+### :pushpin: 8.Jun.2023
+**Python**
+- Loops (practice in [exercism](https://exercism.org/tracks/python/exercises/making-the-grade/solutions/rubywu0604))
+
+### :pushpin: 7.Jun.2023
+**Python**
+- List methods
+- Format Strings: {} / format()
+
 ### :pushpin: 6.Jun.2023
 **Python**
 - Lists (practice in [exercism](https://exercism.org/tracks/python/exercises/card-games/solutions/rubywu0604))
+- List methods
 
 ### :pushpin: 5.Jun.2023
 **Python**
