@@ -21,6 +21,10 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 13.Jun.2023
+**LeetCode**
+- 383. Ransom Note
+
 ### :pushpin: 12.Jun.2023
 **Python**
 - Tuple (practice in [exercism](https://exercism.org/tracks/python/exercises/tisbury-treasure-hunt/solutions/rubywu0604))
