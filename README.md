@@ -21,13 +21,16 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 15.Jun.2023
+**Python**
+- Dictionary (practice in [exercism](https://exercism.org/tracks/python/exercises/inventory-management/iterations))
 
 ### :pushpin: 14.Jun.2023
 **LeetCode**
 - 500.Keyboard Row
 - 67.Add Binary
 - set
-- 
+
 ### :pushpin: 13.Jun.2023
 **LeetCode**
 - 383.Ransom Note
