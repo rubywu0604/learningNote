@@ -21,6 +21,10 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 16.Jun.2023
+**Python**
+- regex (practice in [exercism](https://exercism.org/tracks/python/exercises/word-count/solutions/rubywu0604))
+
 ### :pushpin: 15.Jun.2023
 **Python**
 - Dictionary (practice in [exercism](https://exercism.org/tracks/python/exercises/inventory-management/iterations))
