@@ -21,6 +21,11 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 20.Jun.2023
+**Python (freeCodeCamp)**
+- Python Dictionaries
+- Dictionaries: Common Applications
+
 ### :pushpin: 19.Jun.2023
 **Python**
 - while loop
