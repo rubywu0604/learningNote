@@ -29,3 +29,16 @@ for score in student_scores:
     two.append(round(score))
 print(f"integ: {one}")
 print(f"round: {two}")
+
+# recursion
+def recursion(n):
+    print(n)
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return n * recursion(n - 1)
+        
+
+print(recursion(4))
