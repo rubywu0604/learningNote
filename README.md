@@ -21,10 +21,18 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 22.Jun.2023
+**Python (Treehouse)**
+-  Python Basics / HTML
+
 ### :pushpin: 20.Jun.2023
 **Python (freeCodeCamp)**
 - Python Dictionaries
 - Dictionaries: Common Applications
+
+**LeetCode**
+- 1.Two Sum
+- 412.Fizz Buzz
 
 ### :pushpin: 19.Jun.2023
 **Python**
