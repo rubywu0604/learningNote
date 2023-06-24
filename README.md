@@ -21,10 +21,26 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 24.Jun.2023
+**Python (Treehouse)**
+- HTML: Creating Links
+- Python: Types and Branching
+- Python: Expecting Exceptions / Raising Exceptions
+- Python: While Loops / For Loops / project
+- Python: List
+
+### :pushpin: 22.Jun.2023
+**Python (Treehouse)**
+-  Meet Python / Getting Started with HTML
+
 ### :pushpin: 20.Jun.2023
 **Python (freeCodeCamp)**
 - Python Dictionaries
 - Dictionaries: Common Applications
+
+**LeetCode**
+- 1.Two Sum
+- 412.Fizz Buzz
 
 ### :pushpin: 19.Jun.2023
 **Python**
