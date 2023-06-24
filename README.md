@@ -21,9 +21,17 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 24.Jun.2023
+**Python (Treehouse)**
+- HTML: Creating Links
+- Python: Types and Branching
+- Python: Expecting Exceptions / Raising Exceptions
+- Python: While Loops / For Loops / project
+- Python: List
+
 ### :pushpin: 22.Jun.2023
 **Python (Treehouse)**
--  Python Basics / HTML
+-  Meet Python / Getting Started with HTML
 
 ### :pushpin: 20.Jun.2023
 **Python (freeCodeCamp)**
