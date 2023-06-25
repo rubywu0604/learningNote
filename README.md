@@ -21,6 +21,12 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+## :pushpin: 25.Jun.2023
+**Python (Treehouse)**
+- Python: List Iteration 
+- Python: Split (String -> List) and Join (List -> String)
+- Python: Multidimensional Lists
+
 ### :pushpin: 24.Jun.2023
 **Python (Treehouse)**
 - HTML: Creating Links
