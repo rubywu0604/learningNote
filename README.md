@@ -21,14 +21,21 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
-## :pushpin: 25.Jun.2023
+### :pushpin: 26.Jun.2023
+**Review HTML/CSS/Git Basic(Treehouse)**
+
+**AW School assignment**
+- Create new repo: remote-assignments
+- Create [GitHub Page](https://rubywu0604.github.io/remote-assignments/Week-1/Assignment-2/)
+
+### :pushpin: 25.Jun.2023
 **Python (Treehouse)**
 - Python: List Iteration 
 - Python: Split (String -> List) and Join (List -> String)
 - Python: Multidimensional Lists
 
 ### :pushpin: 24.Jun.2023
-**Python (Treehouse)**
+**HTML/Python (Treehouse)**
 - HTML: Creating Links
 - Python: Types and Branching
 - Python: Expecting Exceptions / Raising Exceptions
@@ -36,7 +43,7 @@ ___
 - Python: List
 
 ### :pushpin: 22.Jun.2023
-**Python (Treehouse)**
+**HTML/Python (Treehouse)**
 -  Meet Python / Getting Started with HTML
 
 ### :pushpin: 20.Jun.2023
