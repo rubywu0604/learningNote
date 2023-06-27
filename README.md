@@ -21,23 +21,52 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
-## :pushpin: 25.Jun.2023
+### :pushpin: 27.Jun.2023
+**CSS/Javascript/DOM (Treehouse)**
+- CSS: Pseudo-classes (:link/:visited/:hover/:focus/**:nth-child**)
+- CSS: length units (px / % / em / rem)
+  >**px** an absolute CSS measurement
+
+  >**%** adjust an element relative to the size of the element's parent
+
+  >**Em** considers parent elements when calculating font size. 
+  
+  >**Rem** is only relative to the root html font-size.
+
+  - [learn more at CodePen Web](https://codepen.io/seyedi/pen/oxWOVX)
+- CSS: Inheritance / Combinators
+- JavaScript and the DOM
+- HTMLCollection and NodeList
+- textContent and innerHTML
+
+### :pushpin: 26.Jun.2023
+**Review HTML/CSS/Git Basic(Treehouse)**
+- HTML: Structuring Your Content
+- HTML: Images, Text and Links / Link to Email
+- Git: Managing Committed Files / Remote Repositories
+
+**AW School assignment**
+- Create new repo: remote-assignments
+- Create [GitHub Page](https://rubywu0604.github.io/remote-assignments/Week-1/Assignment-2/)
+
+### :pushpin: 25.Jun.2023
 **Python (Treehouse)**
 - Python: List Iteration 
 - Python: Split (String -> List) and Join (List -> String)
 - Python: Multidimensional Lists
 
 ### :pushpin: 24.Jun.2023
-**Python (Treehouse)**
-- HTML: Creating Links
+**HTML/Python (Treehouse)**
+- HTML: Creating Lists/Links
 - Python: Types and Branching
 - Python: Expecting Exceptions / Raising Exceptions
 - Python: While Loops / For Loops / project
 - Python: List
 
 ### :pushpin: 22.Jun.2023
-**Python (Treehouse)**
--  Meet Python / Getting Started with HTML
+**HTML/Python (Treehouse)**
+-  Python: Meet Python 
+-  HTML: Getting Started with HTML
 
 ### :pushpin: 20.Jun.2023
 **Python (freeCodeCamp)**
