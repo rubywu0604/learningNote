@@ -21,6 +21,20 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 28.Jun.2023
+**CSS(Treehouse)**
+- CSS Layout
+  - Padding use in '%' unit -> base on Parent element's width
+  - Display Value: 
+    >none: often use in hide/show (Read Less/More)
+    
+    >block: display each content in a single line
+    
+    >inline: display all content in the same line
+    
+    >inline-block: display in a single line with other contents **With adjustable width/padding/border**
+- CSS Flexbox Layout
+
 ### :pushpin: 27.Jun.2023
 **CSS/Javascript/DOM (Treehouse)**
 - CSS: Pseudo-classes (:link/:visited/:hover/:focus/**:nth-child**)
