@@ -21,6 +21,16 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 29.Jun.2023
+**CSS(Treehouse)**
+- CSS Flexbox Layout
+  - align-items
+  - align-self
+  - justify-content
+  
+**AW School assignment**
+  - Creating [Assignment-2](https://rubywu0604.github.io/remote-assignments/Week-1/Assignment-2/)
+
 ### :pushpin: 28.Jun.2023
 **CSS(Treehouse)**
 - CSS Layout
@@ -33,7 +43,6 @@ ___
     >inline: display all content in the same line
     
     >inline-block: display in a single line with other contents **With adjustable width/padding/border**
-- CSS Flexbox Layout
 
 ### :pushpin: 27.Jun.2023
 **CSS/Javascript/DOM (Treehouse)**
