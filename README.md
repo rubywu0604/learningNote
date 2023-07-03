@@ -21,15 +21,23 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 03.Jul.2023
+**(Treehouse)**
+- Packing/Unpacking of Tuple and Dict
+
+**AW School assignment**
+- Create Week-2 folders and files
+- Completed Assignment 1,3,4
+
 ### :pushpin: 29.Jun.2023
 **CSS(Treehouse)**
 - CSS Flexbox Layout
-  - align-items
-  - align-self
-  - justify-content
+- align-items
+- align-self
+- justify-content
   
 **AW School assignment**
-  - Creating [Assignment-2](https://rubywu0604.github.io/remote-assignments/Week-1/Assignment-2/)
+- Creating [Assignment-2](https://rubywu0604.github.io/remote-assignments/Week-1/Assignment-2/)
 
 ### :pushpin: 28.Jun.2023
 **CSS(Treehouse)**
