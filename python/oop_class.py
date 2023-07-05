@@ -4,13 +4,15 @@ class Car:
     doors = 2
     engine = True
 
-    def __init__(self, brand, year, color="black (default)"):
+    def __init__(self, brand, year, color="black (default)", **kwargs):
         # instance attribute
         self.brand = brand
         self.year = year
         self.color = color
         self.is_moving = False
-        self.gas = 150
+        
+        for key, value in kwargs.items():
+            setattr(self, key, value)
     
     def __str__(self):
         return f"The {self.color} {self.brand} was made in {self.year}."
@@ -57,11 +59,14 @@ print(id(c1.brand), id(c2.brand)) # c1.brand id is changed due to its value chan
 
 # method and test is_moving or not
 print("===============TEST METHOD===============")
-print("GO method: ", c1.go("fast"))
-print("GO method: ", c1.go("smooth"))
-print("GO method: ", c1.go("slow"))
-print("STOP method: ", c1.stop())
-print("STOP method: ", c1.stop())
+c3 = Car("Porsche", 2000, "red", gas=250)  # the param **kwargs in __init__(), can set attribute of gas
+print("gas before go: ", getattr(c3, "gas"))
+print("GO method: ", c3.go("fast"))
+print("GO method: ", c3.go("smooth"))
+print("GO method: ", c3.go("slow"))
+print("gas remain after go: ", getattr(c3, "gas"))
+print("STOP method: ", c3.stop())
+print("STOP method: ", c3.stop())
 
 class Factory:
     def __init__(self):
@@ -83,3 +88,7 @@ all_brand.add_brand(c1.brand)
 all_brand.add_brand(c2.brand)
 for new_brand in all_brand:
     print(new_brand)
+
+# setattr / getattr
+setattr(Car, "googleCarPlay", True)
+print(Car.__dict__, Car.googleCarPlay)
