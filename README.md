@@ -21,14 +21,31 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 05.Jul.2023
+**Python-OOP**
+- setattr() / getattr()
+- Inheritance
+  - Parent (Super) class: the class that a class inherits from. 
+  - Child (Sub) class: get all of the attributes and methods of their parents and grandparents and so on.
+
+**javascript**
+- [Differences Between Var, Let, and Const](https://www.youtube.com/watch?v=9WIJQDvt4Us)
+
+**LeetCode**
+- GCD: Greatest Common Divisor
+- [914.X of a Kind in a Deck of Cards](https://leetcode.com/submissions/detail/987053033/)
+
 ### :pushpin: 04.Jul.2023
-**Python**
+**Python-OOP**
 - Dunder Main
 - Object-Oriented Programming (a way of structuring your code into groups of properties and behaviors)
 - Dates and Times in Python
 - Write Better Python (PEP8/PEP20)
   - [The Zen of Python](https://legacy.python.org/dev/peps/pep-0020/)
   - [Docstrings](https://peps.python.org/pep-0257/)
+
+**AW School assignment**
+- [InnerText vs. InnerHTML vs. TextContent: What’s Best?](https://builtin.com/software-engineering-perspectives/innerhtml-vs-innertext)
   
 ### :pushpin: 03.Jul.2023
 **Python**
