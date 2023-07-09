@@ -21,6 +21,17 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 07.Jul.2023
+**Terminal(Treehouse)**
+- Introduction to the Terminal
+
+**LeetCode**
+- 657.Robot Return to Origin
+
+### :pushpin: 06.Jul.2023
+**Python-OOP**
+- construsticons (@classmethod / @property)
+
 ### :pushpin: 05.Jul.2023
 **Python-OOP**
 - setattr() / getattr()
