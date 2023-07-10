@@ -21,6 +21,13 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 10.Jul.2023
+**Python-OOP**
+- [Object Oriented Programming with Python](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+**Install Flack**
+**Install [Anaconda](https://www.youtube.com/watch?v=OTiXlg--1zk&t=43s)**
+- [What's Anaconda?](https://www.youtube.com/watch?v=MUZtVEDKXsk)
+
 ### :pushpin: 07.Jul.2023
 **Terminal(Treehouse)**
 - Introduction to the Terminal
