@@ -21,6 +21,29 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 11.Jul.2023
+**LeetCode**
+- 1.Two Sum
+- Time complexity
+
+**Python-Flask / JSON / Cookie / API**
+- layout HTML
+- make_response()
+- set_cookie()
+- request.cookies()
+- POST request => parse => JSON.loads()
+- GET response => toString => JSON.dumps()
+
+### :pushpin: 10.Jul.2023
+**Python-OOP**
+- [Object Oriented Programming with Python](https://www.youtube.com/watch?v=Ej_02ICOIgs)
+
+**Install Flack**
+- WSGI: [Web Server Gateway Interface](https://flask.palletsprojects.com/en/2.3.x/deploying/)
+
+**Install [Anaconda](https://www.youtube.com/watch?v=OTiXlg--1zk&t=43s)**
+- [What's Anaconda?](https://www.youtube.com/watch?v=MUZtVEDKXsk)
+
 ### :pushpin: 07.Jul.2023
 **Terminal(Treehouse)**
 - Introduction to the Terminal
