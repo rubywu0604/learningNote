@@ -21,6 +21,12 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 12.Jul.2023
+**LeetCode**
+- Using Databases in Python
+- A Social Network with Flask
+- Flask with SQLAlchemy Basics
+  
 ### :pushpin: 11.Jul.2023
 **LeetCode**
 - 1.Two Sum
