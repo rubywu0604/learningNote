@@ -21,8 +21,32 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 14.Jul.2023
+**Algorithms**
+- Introduction to Algorithms
+  - Time complexity
+    >Constant Time: O(1)
+
+    >Logarithmic Time(Binary): O(log n)
+
+    >Linear Time: O(n)
+
+    >Quadratic Time: O(n^2)
+
+    >Quasilinear Time([Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)): O(n log n)
+
+    >Polynomial runtimes: O(n ^ k), ex:O(n^2) or O(n^3)
+
+    >Exponential runtime(Brute force): O(k^n), ex:O(10^n) password
+
+    >Combinatorial or factorial runtime: O(n!) 
+
+### :pushpin: 13.Jul.2023
+**Python**
+- Cookie
+
 ### :pushpin: 12.Jul.2023
-**LeetCode**
+**Python**
 - Using Databases in Python
 - A Social Network with Flask
 - Flask with SQLAlchemy Basics
@@ -30,7 +54,6 @@ ___
 ### :pushpin: 11.Jul.2023
 **LeetCode**
 - 1.Two Sum
-- Time complexity
 
 **Python-Flask / JSON / Cookie / API**
 - layout HTML
