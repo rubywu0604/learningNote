@@ -21,6 +21,11 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 17.Jul.2023
+**Python**
+- Multiple Thread
+- Queue
+
 ### :pushpin: 14.Jul.2023
 **Algorithms**
 - Introduction to Algorithms
