@@ -21,6 +21,11 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 18.Jul.2023
+**DataBase**
+- mySQL
+- Querying Relational Databases
+
 ### :pushpin: 17.Jul.2023
 **Python**
 - Multiple Thread
