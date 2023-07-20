@@ -21,6 +21,41 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 20.Jul.2023
+**Config**
+
+- How to save config to another file?
+  
+    Config data also can save into another file (ex. config.py).
+
+    In that file, create the config class and save secret key as a class instance.
+
+    Then secret key can be accessed by -> app.config.from_object(Class_Name)
+
+- How to get value of secret key?
+  
+    1 > load_dotenv(): SECRET_KEY valid after load_dotenv() = True
+
+    `load_dotenv()`
+
+    `app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')`
+
+    2 > config = dotenv_values(".env"): assign all data to config (data is OrderedDict) from .env file
+
+    `config = dotenv_values(".env")`
+
+    `app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')`
+
+**mySQL/mysqldump**
+- [Dump sql file](https://dev.mysql.com/doc/refman/5.7/en/mysqldump-sql-format.html)
+
+### :pushpin: 19.Jul.2023
+**Callbacks, Promises, Async Await**
+- [Callbacks, Promises, Async Await | JavaScript Fetch API Explained](https://www.youtube.com/watch?v=VmQ6dHvnKIM)
+- [Python Website Full Tutorial](https://www.youtube.com/watch?v=dam0GPOAvVI)
+- Flash Message
+- dotenv
+
 ### :pushpin: 18.Jul.2023
 **DataBase**
 - mySQL
