@@ -21,6 +21,13 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+### :pushpin: 25.Jul.2023
+**NGINX** ([NGINX Guide](http://nginx.org/en/docs/beginners_guide.html))
+- check port `sudo lsof -i tcp:8080` can find "PID" in the list
+  - if run nginx and show issue: Address already in use, can use `sudo kill <PID>` to stop nginx
+- To start: `nginx` / To reload: `nginx -s reload` (hard reload: ⌘⇧R) / To stop: `nginx -s quit`
+- [The NGINX Crash Course](https://www.youtube.com/watch?v=7VAI73roXaY)
+
 ### :pushpin: 20.Jul.2023
 **Config**
 
