@@ -1,9 +1,14 @@
-function reverseString(str) {
-  for(let i = str.length - 1; i >= 0; i--){
-    str += str[i];
-  }
-  console.log(str);
-  return str;
-}
+console.log(`Before timeout: ${new Date()}`);
+const fn = () => {
+  console.log(`After timeout: ${new Date()}`);
+};
 
-reverseString("hello");
+setTimeout(fn, 5000);
+console.log(`I happen AFTER timeout`);
+
+// ====================================================================
+for (var i = 0; i < 5; i++) {
+  setTimeout(function () {
+    console.log(i);
+  }, 1);
+}
