@@ -21,6 +21,20 @@ Thanks my mentor [@jerome1210](https://github.com/Jerome1210)
 ___
 
 ### Learning Note
+
+### :pushpin: 14.Nov.2023
+
+**Python: Django**
+- start to learning Django
+- MVT structure
+
+### :pushpin: 26.Jul.2023 ~ 12.Nov.2023 (4 months+)
+#### _AppWorks School training : #21 Data Engineering Class_
+
+**Project**
+- STYLiSH : E-Commerce website with recommendation and bidding system.
+- [GoodJob](https://github.com/rubywu0604/GoodJob) : Analyzed engineering job market trends with web scraping from multiple job search websites.
+
 ### :pushpin: 25.Jul.2023
 **NGINX** ([NGINX Guide](http://nginx.org/en/docs/beginners_guide.html))
 - check port `sudo lsof -i tcp:8080` can find "PID" in the list
